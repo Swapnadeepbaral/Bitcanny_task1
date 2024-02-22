@@ -16,7 +16,6 @@
     background-color: rgb(248, 246, 246);
     height: 60px;
     width: 90%;
-    position: sticky;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
@@ -64,11 +63,6 @@ a {
     font-family: "suez one";
     margin-left: 90px;
 }
-
-/* .sec {
-    height: 400px;
-    width: 100%;
-} */
 
 #cards {
     height: 400px;

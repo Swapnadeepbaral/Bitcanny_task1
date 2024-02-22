@@ -8,7 +8,7 @@
 .back {
     background-image: url("https://media.istockphoto.com/id/1490475861/photo/closeup-of-man-tablet-and-hands-in-office-for-productivity-website-planning-and-internet.jpg?s=2048x2048&w=is&k=20&c=VkMooPZ1bnrNUVfTlnyOl7r8G3IqxBP3J3nrBi_p-tE=");
     height: 840px;
-    width: auto;
+    width: 100%;
 
 }
 
@@ -45,6 +45,9 @@ a {
     color: whitesmoke;
     cursor: pointer;
 }
+.navbar div:hover a{
+    color: aliceblue;
+}
 
 #text1 h1 {
     font-size: 80px;
@@ -62,10 +65,10 @@ a {
     margin-left: 90px;
 }
 
-.sec {
+/* .sec {
     height: 400px;
     width: 100%;
-}
+} */
 
 #cards {
     height: 400px;
